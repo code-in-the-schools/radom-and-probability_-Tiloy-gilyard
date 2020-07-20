@@ -25,3 +25,4 @@ d = random.randint(1,100)
 randlist2.append(d)
 for g in randlist2:
   print(randlist2{g})
+  
